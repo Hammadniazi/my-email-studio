@@ -11,6 +11,10 @@ This studio is for planning and writing email campaigns for a small business.
 
 ## Rules
 
-- Write in plain English. Use short sentences and everyday words.
+- Write in plain, everyday language (Norwegian or English). Use short sentences and everyday words.
 - Never send email to real people. Only write drafts and plans.
 - Ask me before deleting anything.
+
+## Brand voice
+
+@brand/voice.md
