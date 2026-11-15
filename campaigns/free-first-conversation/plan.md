@@ -2,7 +2,7 @@
 
 **Firm:** Advokatfirmaet Suleiman & Co AS
 **Channel:** Email only
-**Dates:** Monday 7 December 2026 – Sunday 3 January 2027 (4 weeks)
+**Dates:** Monday 7 December 2026 – Sunday 3 January 2027 (4 weeks). Bookings count until Sunday 10 January 2027.
 **Status:** Draft plan. A lawyer at the firm checks every email before it goes out.
 
 ---
@@ -23,7 +23,7 @@ The brief said *"the first 10 people get a free consultation"*. We have kept **1
 
 - **Name:** *Gratis første samtale* / *Free first conversation*
 - **Summary:** A calm series of emails that reminds people on our list that they can talk to a lawyer for free, with no commitment, before they decide anything.
-- **Main goal:** **10 people book a free first conversation** between 7 December 2026 and 3 January 2027.
+- **Main goal:** **10 people book a free first conversation** between 7 December 2026 and 10 January 2027. (Emails go out until 4 January. The extra week gives people time to book after email 3.)
 - **Other goals:**
   - Find out which of the three groups responds best, so we know where to focus next time.
   - Keep our list healthy: few unsubscribes and no complaints.
@@ -88,11 +88,11 @@ Weeks 3 and 4 fall over Christmas and New Year, when fewer people read email and
 | 1 | Tue 8 Dec | **Email 1 – Invitation.** "You can talk to a lawyer for free." One version per group. | Email | Signed by the writing lawyer | Draft needed |
 | 1 | Thu 10 Dec | Check results: opens, clicks, bookings, replies | Report | Office | – |
 | 2 | Tue 15 Dec | **Email 2 – "Small questions are welcome too."** Only to people who haven't booked. Tips by group. | Email | Depends on email 1 results | Draft needed |
-| 2 | Fri 18 Dec | **Holiday note.** Opening hours over Christmas and how to reach us. No sales message. | Email | Short and friendly | Draft needed |
+| 2 | Fri 18 Dec | **Holiday note.** Opening hours over Christmas and how to reach us. No sales message. **Audience: everyone on the list (A, B and C), including people who booked.** | Email | Short and friendly | Draft needed |
 | 3 | 21–27 Dec | **No campaign email.** Answer replies and bookings. | – | Christmas week | – |
 | 4 | Tue 29 Dec | Lawyer approves email 3 (can be done in week 2) | Review | Responsible lawyer | Not started |
-| 4 | Mon 4 Jan* | **Email 3 – "New year, here's what happens next."** Gentle last reminder, mostly for groups B and C. | Email | *Just after the 4 weeks end. Bookings from it still count if they come in by 10 Jan. | Draft needed |
-| 4+ | Fri 8 Jan | Final report | Report | Office | – |
+| 4 | Mon 4 Jan* | **Email 3 – "New year, here's what happens next."** Gentle last reminder. **Audience: groups B and C, only people who haven't booked.** Group A does not get email 3. They contacted us before, so a third reminder could feel pushy. | Email | *Just after the 4 weeks end. Bookings count until Sun 10 Jan. | Draft needed |
+| 4+ | Tue 12 Jan | Final report (after bookings close on Sun 10 Jan) | Report | Office | – |
 
 \* *Option: send email 3 on Tue 29 Dec instead to stay inside the 4 weeks. Fewer people read email that week, so we suggest 4 January.*
 
@@ -133,7 +133,7 @@ Weeks 3 and 4 fall over Christmas and New Year, when fewer people read email and
 
 **Rough maths:** 2,000 people × about 3% clicking × about 20% of those booking ≈ 12 bookings. So 10 is realistic but not a sure thing.
 
-**Reporting:** a short check two days after each email, and one final report on 8 January.
+**Reporting:** a short check two days after each email, and one final report on Tuesday 12 January, after bookings close on 10 January.
 
 ## 8. Budget
 
